@@ -1,4 +1,4 @@
-# Ollama-RAG-WebScraper
+# LLM-RAG-WebScraper
 
 This repository contains a Python tool that combines web scraping, local Large Language Model (LLM) capabilities via Ollama, and semantic embedding using Nomic Embed to create a powerful Retrieval-Augmented Generation (RAG) system.
 
