@@ -21,4 +21,3 @@ This repository contains a Python tool that combines web scraping, local Large L
 
 * Ollama
 * Nomic Embed
-_
